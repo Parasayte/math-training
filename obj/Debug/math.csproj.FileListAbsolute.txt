@@ -1,0 +1,12 @@
+C:\Users\Saad\source\repos\math\bin\Debug\math.exe.config
+C:\Users\Saad\source\repos\math\bin\Debug\math.exe
+C:\Users\Saad\source\repos\math\bin\Debug\math.pdb
+C:\Users\Saad\source\repos\math\bin\Debug\Guna.UI2.dll
+C:\Users\Saad\source\repos\math\obj\Debug\math.csproj.AssemblyReference.cache
+C:\Users\Saad\source\repos\math\obj\Debug\math.Form1.resources
+C:\Users\Saad\source\repos\math\obj\Debug\math.Properties.Resources.resources
+C:\Users\Saad\source\repos\math\obj\Debug\math.csproj.GenerateResource.cache
+C:\Users\Saad\source\repos\math\obj\Debug\math.csproj.CoreCompileInputs.cache
+C:\Users\Saad\source\repos\math\obj\Debug\math.csproj.Up2Date
+C:\Users\Saad\source\repos\math\obj\Debug\math.exe
+C:\Users\Saad\source\repos\math\obj\Debug\math.pdb
