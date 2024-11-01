@@ -31,18 +31,14 @@ Users receive a question and must provide the correct answer, making it a straig
 
 ### Installation
 
-1. Clone the repository:
+- Clone the repository:
 
     ```bash
     git clone https://github.com/Parasayte/math-training.git
     cd math-training
     ```
 
-2. Run the application:
 
-    ```bash
-    dotnet run
-    ```
 
 ## Usage
 
