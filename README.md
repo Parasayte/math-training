@@ -1,7 +1,6 @@
 ![Top Language](https://img.shields.io/github/languages/top/Parasayte/math-training?color=teal)
-![Repo Size](https://img.shields.io/github/repo-size/Parasayte/math-training?color=crimson)
-![Last Commit](https://img.shields.io/github/last-commit/Parasayte/math-training?color=gold)
-![Community](https://img.shields.io/badge/Community-Active-green)
+![Last Commit](https://img.shields.io/github/last-commit/Parasayte/math-training?color=crimson)
+![Community](https://img.shields.io/badge/Community-Active-gold)
 ![Stars](https://img.shields.io/github/stars/Parasayte/math-training?color=darkblue&style=social)
 
 # Math Training [![AGPL License](https://img.shields.io/badge/CSharp-Project-purple)](https://learn.microsoft.com/tr-tr/dotnet/csharp/)
