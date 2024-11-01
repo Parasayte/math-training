@@ -7,7 +7,7 @@
 
 
 
-Math Training is a C# console application that generates random math questions to help users practice a range of operations, including:
+Math Training is a C# windows form application that generates random math questions to help users practice a range of operations, including:
 
 - Addition
 - Subtraction
