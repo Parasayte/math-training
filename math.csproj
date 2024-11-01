@@ -52,16 +52,64 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Addition.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Addition.Designer.cs">
+      <DependentUpon>Addition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cuping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cuping.Designer.cs">
+      <DependentUpon>Cuping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Division.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Division.Designer.cs">
+      <DependentUpon>Division.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Multiplication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Multiplication.Designer.cs">
+      <DependentUpon>Multiplication.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Squaring.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Squaring.Designer.cs">
+      <DependentUpon>Squaring.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Subtract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Subtract.Designer.cs">
+      <DependentUpon>Subtract.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Addition.resx">
+      <DependentUpon>Addition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cuping.resx">
+      <DependentUpon>Cuping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Division.resx">
+      <DependentUpon>Division.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Multiplication.resx">
+      <DependentUpon>Multiplication.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -72,6 +120,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Squaring.resx">
+      <DependentUpon>Squaring.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Subtract.resx">
+      <DependentUpon>Subtract.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
