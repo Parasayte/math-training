@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Saad\\source\\repos\\math\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CC71D48-C25F-4E37-97BA-03E56320235A}|math.csproj|c:\\users\\saad\\source\\repos\\math\\squaring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4CC71D48-C25F-4E37-97BA-03E56320235A}|math.csproj|solutionrelative:squaring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CC71D48-C25F-4E37-97BA-03E56320235A}|math.csproj|c:\\users\\saad\\source\\repos\\math\\cuping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4CC71D48-C25F-4E37-97BA-03E56320235A}|math.csproj|solutionrelative:cuping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CC71D48-C25F-4E37-97BA-03E56320235A}|math.csproj|c:\\users\\saad\\source\\repos\\math\\multiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4CC71D48-C25F-4E37-97BA-03E56320235A}|math.csproj|solutionrelative:multiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CC71D48-C25F-4E37-97BA-03E56320235A}|math.csproj|c:\\users\\saad\\source\\repos\\math\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4CC71D48-C25F-4E37-97BA-03E56320235A}|math.csproj|C:\\Users\\Saad\\source\\repos\\math\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4CC71D48-C25F-4E37-97BA-03E56320235A}|math.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC71D48-C25F-4E37-97BA-03E56320235A}|math.csproj|c:\\users\\saad\\source\\repos\\math\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC71D48-C25F-4E37-97BA-03E56320235A}|math.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,42 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Cuping.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Saad\\source\\repos\\math\\Cuping.cs",
-              "RelativeDocumentMoniker": "Cuping.cs",
-              "ToolTip": "C:\\Users\\Saad\\source\\repos\\math\\Cuping.cs [Design]",
-              "RelativeToolTip": "Cuping.cs [Design]",
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Saad\\source\\repos\\math\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\Saad\\source\\repos\\math\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAkwJUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T04:19:18.652Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-01T07:31:31.278Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Squaring.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Saad\\source\\repos\\math\\Squaring.cs",
-              "RelativeDocumentMoniker": "Squaring.cs",
-              "ToolTip": "C:\\Users\\Saad\\source\\repos\\math\\Squaring.cs [Design]",
-              "RelativeToolTip": "Squaring.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T04:19:07.836Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Multiplication.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Saad\\source\\repos\\math\\Multiplication.cs",
-              "RelativeDocumentMoniker": "Multiplication.cs",
-              "ToolTip": "C:\\Users\\Saad\\source\\repos\\math\\Multiplication.cs [Design]",
-              "RelativeToolTip": "Multiplication.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T04:15:21.303Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Menu.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Saad\\source\\repos\\math\\Menu.cs",
               "RelativeDocumentMoniker": "Menu.cs",

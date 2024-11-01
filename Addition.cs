@@ -10,10 +10,13 @@ namespace math
             InitializeComponent();
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {   Hide();
-            Menu form1 = new Menu();
-            form1.Show();
+      
+
+        private void guna2GradientButton2_Click(object sender, EventArgs e)
+        {  Hide();
+                     Menu form1 = new Menu();
+                     form1.Show();
+           
         }
     }
 }
