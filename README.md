@@ -1,9 +1,13 @@
-![Top Language](https://img.shields.io/github/languages/top/Parasayte/math-training?color=teal)
-![Last Commit](https://img.shields.io/github/last-commit/Parasayte/math-training?color=crimson)
-![Community](https://img.shields.io/badge/Community-Active-gold)
-![Stars](https://img.shields.io/github/stars/Parasayte/math-training?color=darkblue&style=social)
+[![Top Language](https://img.shields.io/github/languages/top/Parasayte/math-training?style=flat&color=teal)](https://github.com/Parasayte/math-training)
+[![Repo Size](https://img.shields.io/github/repo-size/Parasayte/math-training?style=flat&color=yellowgreen)](https://github.com/Parasayte/math-training)
+[![Last Commit](https://img.shields.io/github/last-commit/Parasayte/math-training?style=flat&color=crimson)](https://github.com/Parasayte/math-training/commits)
+[![Community](https://img.shields.io/badge/Community-Active-gold?style=flat)](https://github.com/Parasayte/math-training)
+[![Stars](https://img.shields.io/github/stars/Parasayte/math-training?style=flat&color=darkblue)](https://github.com/Parasayte/math-training/stargazers)
+[![Forks](https://img.shields.io/github/forks/Parasayte/math-training?style=flat&color=purple)](https://github.com/Parasayte/math-training/network/members)
 
-# Math Training [![AGPL License](https://img.shields.io/badge/CSharp-Project-purple)](https://learn.microsoft.com/tr-tr/dotnet/csharp/)
+
+# Math Training [![AGPL License](https://img.shields.io/badge/CSharp-Project-purple?style=plastic)](https://learn.microsoft.com/tr-tr/dotnet/csharp/)
+
 
 
 
